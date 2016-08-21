@@ -1,0 +1,17 @@
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/ibtool/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/ibtool/LaunchScreen.storyboardc/Info.plist
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/ibtool/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/ibtool/Main.storyboardc/Info.plist
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/actool/partial-info.plist
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/actool/asset-manifest.plist
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/optimized/
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/bin/iPhone/Debug/iOSPhone.exe.mdb
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/bin/iPhone/Debug/iOSPhone.exe
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/iOSPhone.exe
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/iOSPhone.exe.mdb

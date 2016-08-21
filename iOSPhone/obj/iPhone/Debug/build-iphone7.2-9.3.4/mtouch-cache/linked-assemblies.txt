@@ -1,0 +1,4 @@
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/mtouch-cache/Link/iOSPhone.exe
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/mtouch-cache/Link/System.dll
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/mtouch-cache/Link/mscorlib.dll
