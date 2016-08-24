@@ -15,3 +15,6 @@
 /Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/bin/iPhone/Debug/iOSPhone.exe
 /Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/iOSPhone.exe
 /Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/iOSPhone.exe.mdb
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/ibtool/Main.storyboardc/203-view-204.nib
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/ibtool/Main.storyboardc/CallHistoryController.nib
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhone/Debug/build-iphone7.2-9.3.4/ibtool/Main.storyboardc/UINavigationController-18.nib

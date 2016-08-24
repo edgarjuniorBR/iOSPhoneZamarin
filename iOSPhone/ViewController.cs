@@ -3,14 +3,22 @@ using Phoneword_iOS;
 using Foundation;
 
 using UIKit;
+using System.Collections.Generic;
 
 namespace iOSPhone
 {
 	public partial class ViewController : UIViewController
 	{
-		protected ViewController(IntPtr handle) : base(handle)
+		// translatedNumber was moved here from ViewDidLoad ()
+		string translatedNumber = "";
+
+		public List<string> PhoneNumbers { get; set; }
+
+		public ViewController(IntPtr handle) : base(handle)
 		{
-			// Note: this .ctor should not contain any initialization logic.
+			//initialize list of phone numbers called for Call History screen
+			PhoneNumbers = new List<string>();
+
 		}
 
 		public override void ViewDidLoad()
@@ -43,6 +51,8 @@ namespace iOSPhone
 
 			CallButton.TouchUpInside += (object sender, EventArgs e) =>
 			{
+				PhoneNumbers.Add(translatedNumber);
+
 				try
 				{
 					// Use URL handler with tel: prefix to invoke Apple's Phone app...
@@ -64,6 +74,17 @@ namespace iOSPhone
 				}
 
 			};
+
+			CallHistoryButton.TouchUpInside += (object sender, EventArgs e) =>
+			{
+				// Launches a new instance of CallHistoryController
+				var callHistory = Storyboard.InstantiateViewController("CallHistoryController") as CallHistoryController;
+				if (callHistory != null)
+				{
+					callHistory.PhoneNumbers = PhoneNumbers;
+					this.NavigationController.PushViewController(callHistory, true);
+				}
+			};
 		}
 
 		public override void DidReceiveMemoryWarning()
@@ -71,6 +92,7 @@ namespace iOSPhone
 			base.DidReceiveMemoryWarning();
 			// Release any cached data, images, etc that aren't in use.
 		}
+
 	}
 }
 

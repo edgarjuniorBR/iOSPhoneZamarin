@@ -15,3 +15,9 @@
 /Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/bin/iPhoneSimulator/Debug/iOSPhone.exe
 /Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhoneSimulator/Debug/iOSPhone.exe
 /Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhoneSimulator/Debug/iOSPhone.exe.mdb
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UINavigationController-18.nib
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/81-view-82.nib
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UITableViewController-81.nib
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/203-view-204.nib
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UITableViewController-203.nib
+/Users/edgarjuniorBR/Projects/iOSPhone/iOSPhone/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/CallHistoryController.nib
